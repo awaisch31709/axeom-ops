@@ -1,0 +1,175 @@
+booking_id,date,client_name,email,service,status,price
+B001,04/02/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,$300
+B002,04/06/2026,R&G Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B003,04/09/2026,Dr. Mia Hassan,office@hassandental.com,Content Day,completed,1500
+B004,04/10/2026,Big D Business,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,$550
+B005,04/10/2026,Parkside Builders LLC,omar@parkside.build,Content Day,completed,1500
+B006,04/13/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,$300
+B007,04/13/2026,Oak Lane Roofing Co,jordan@oaklaneroofingco.com,Reels Pack,completed,$900
+B008,04/17/2026,Rise & Grind,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B009,04/20/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,300
+B010,04/20/2026,Stonebridge Medspa,nadia@stonebridgemedspa.com,Content Day,completed,1500
+B011,04/23/2026,Priya Wallace,priya.wallace.mail@gmail.com,Podcast Studio 2hr,completed,300
+B012,04/24/2026,Marcus Nguyen,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,$550
+B013,04/27/2026,Cedar Wealth Partners,wcarter@cedarwp.com,Retainer Shoot,completed,0
+B014,04/28/2026,Lakeside Bridal,joy@lakesidebridal.com,Reels Pack,completed,900
+B015,04/30/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,300
+B016,05/04/2026,R&G Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B017,05/06/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B018,05/06/2026,Cedar Wealth,wcarter@cedarwp.com,Retainer Shoot,completed,$0
+B019,05/11/2026,R&G Podcast,priya.wallace.mail@gmail.com,Podcast Studio 2hr,completed,300
+B020,05/11/2026,Marcus Nguyen,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,$550
+B021,05/11/2026,Carter Law Firm,jcarter@carterlaw.com,Retainer Shoot,completed,0
+B022,05/11/2026,Bayou Fitness,dana@bayoufit.co,Reels Pack,completed,$900
+B023,05/11/2026,Bluebonnet Physical Therapy,mshah@bluebonnetptdallas.com,Retainer Shoot,completed,0
+B024,05/13/2026,Clearwater,grace@clearwatermedspa.com,Reels Pack,completed,$900
+B025,05/14/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B026,05/18/2026,Dr Hassan,office@hassandental.com,Content Day,completed,1500
+B027,05/19/2026,Priya Wallace,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B028,05/20/2026,Oak Lane Roofing,jordan@oaklaneroofingco.com,Reels Pack,completed,$900
+B029,05/21/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B030,05/22/2026,Kingsley Barbers,luis@kingsleybarbers.com,Reels Pack,completed,900
+B031,05/25/2026,Big D Business,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,550
+B032,05/26/2026,Rise & Grind,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B033,05/26/2026,Castillo Insurance,david@castilloinsures.com,Retainer Shoot,completed,0
+B034,05/27/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B035,05/29/2026,Red Oak Realty LLC,brooke@redoakrealty.com,Content Day,completed,"$1,500"
+B036,06/02/2026,Lakeside Bridal Boutique,joy@lakesidebridal.com,Reels Pack,completed,900
+B037,06/04/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B038,06/04/2026,R&G Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B039,06/05/2026,Romero Dental,office@romerodental.com,Content Day,completed,"$1,500"
+B040,06/08/2026,Hassan Family Law PLLC,info@hassanfamilylaw.com,Reels Pack,completed,$900
+B041,06/08/2026,Parkside Builders,omar@parkside.build,Content Day,completed,1500
+B042,06/08/2026,Dana Patel,dana@bayoufit.co,Reels Pack,completed,900
+B043,06/08/2026,Bluebonnet PT,mshah@bluebonnetptdallas.com,Retainer Shoot,completed,0
+B044,06/10/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B045,06/10/2026,Rise & Grind Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B046,06/10/2026,Cedar WP,wcarter@cedarwp.com,Retainer Shoot,completed,0
+B047,06/11/2026,Elevate Pediatrics,sdaniels@elevatepeds.com,Reels Pack,completed,900
+B048,06/12/2026,Big D Business,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,550
+B049,06/15/2026,Jordan Grant,jordan@oaklaneroofingco.com,Reels Pack,completed,$900
+B050,06/15/2026,Carter,jcarter@carterlaw.com,Retainer Shoot,completed,$0
+B051,06/15/2026,Castillo Insurance Group,david@castilloinsures.com,Retainer Shoot,completed,$0
+B052,06/16/2026,Rise & Grind Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B053,06/17/2026,Stonebridge Med Spa - Frisco,nadia@stonebridgemedspa.com,Content Day,completed,"$1,500"
+B054,06/17/2026,Clearwater Med Spa - Plano,grace@clearwatermedspa.com,Reels Pack,completed,$900
+B055,06/18/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B056,06/22/2026,Kingsley Barbershop,luis@kingsleybarbers.com,Reels Pack,completed,$900
+B057,06/22/2026,Luna Coffee Roasters,simone@lunacoffee.com,Reels Pack,completed,900
+B058,06/25/2026,Bloom Builders,simone@bloom.build,Content Day,completed,1500
+B059,06/29/2026,Mia Hassan DDS,office@hassandental.con,Content Day,completed,1500
+B060,06/29/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B061,06/29/2026,Rise & Grind Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B062,06/29/2026,Big D Business Podcast,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,550
+B063,07/01/2026,Bluecat - Dr.,drwallace@magnoliachiro.com,Reels Pack,completed,900
+B064,07/06/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B065,07/06/2026,Cedar Wealth,wcarter@cedarwp.com,Retainer Shoot,completed,$0
+B066,07/07/2026,Carter,jcarter@carterlaw.com,Retainer Shoot,completed,$0
+B067,07/08/2026,Lakeside Bridal,joy@lakesidebridal.com,Reels Pack,completed,900
+B068,07/09/2026,Maple,jared@maplegym.co,Reels Pack,completed,$900
+B069,07/13/2026,R&G Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B070,07/13/2026,Parkside Builders,omar@parkside.build,Content Day,completed,"$1,500"
+B071,07/13/2026,Clearwater Med Spa - Plano,grace@clearwatermedspa.com,Reels Pack,completed,$900
+B072,07/13/2026,Juniper Lab,yasmin@thejuniperlab.coffee,Reels Pack,completed,$900
+B073,07/14/2026,Dr Romero,office@romerodental.com,Content Day,completed,1500
+B074,07/14/2026,Oak Lane Roofing Co,jordan@oaklaneroofingco.com,Reels Pack,completed,900
+B075,07/14/2026,Bluebonnet PT,mshah@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B076,07/14/2026,Castillo Insurance,david@castilloinsures.com,Retainer Shoot,completed,0
+B077,07/14/2026,Prime Family Therapy,lramirez@primefamilytherapy.com,Content Day,completed,"$1,500"
+B078,07/15/2026,Jen Hassan,info@hassanfamilylaw.com,Reels Pack,completed,$900
+B079,07/15/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B080,07/16/2026,Big D Business,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,$550
+B081,07/17/2026,Bayou Fit,dana@bayoufit.co,Reels Pack,completed,900
+B082,07/20/2026,Paul Hassan,paul.hassan.detail@gmail.com,Reels Pack,completed,900
+B083,07/20/2026,Rise & Grind,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B084,07/21/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B085,07/21/2026,Elevate Peds,alana@bluecatmktg.com,Reels Pack,completed,$900
+B086,07/27/2026,Brooke Romero,brooke@redoakrealty.com,Content Day,completed,"$1,500"
+B087,07/27/2026,R&G Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B088,07/27/2026,Luis Zamora,luis@kingsleybarbers.com,Reels Pack,completed,900
+B089,07/29/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B090,08/03/2026,Marcus Nguyen,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,550
+B091,08/03/2026,Joy Delgado,joy@lakesidebridal.com,Reels Pack,completed,$900
+B092,08/03/2026,Luna Coffee Roasters,simone@lunacoffee.com,Reels Pack,completed,$900
+B093,08/03/2026,Dr. Wallace,alana@bluecatmktg.com,Reels Pack,completed,900
+B094,08/05/2026,Mike Ortiz,mike@mikesroofingtx.com,Reels Pack,completed,900
+B095,08/07/2026,Rise and Grind,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B096,08/10/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B097,08/10/2026,Stonebridge Medspa,nadia@stonebridgemedspa.com,Content Day,completed,1500
+B098,08/10/2026,Cedar Wealth,wcarter@cedarwp.com,Retainer Shoot,completed,$0
+B099,08/11/2026,Bayou Athletics,dana@bayouathletics.com,Reels Pack,completed,$900
+B100,08/12/2026,Hassan Law,info@hassanfamilylaw.com,Reels Pack,completed,$900
+B101,08/12/2026,Redoak RG,victor@redoakrg.com,Content Day,completed,"$1,500"
+B102,08/12/2026,Castillo Insurance Group,david@castilloinsures.com,Retainer Shoot,completed,$0
+B103,08/13/2026,Bloom,simone@bloom.build,Content Day,completed,1500
+B104,08/14/2026,Bluebonnet Physical Therapy,mshah@bluebonnetptdallas.com,Retainer Shoot,completed,0
+B105,08/17/2026,Hassan Dental,office@hassandental.com,Content Day,completed,"$1,500"
+B106,08/17/2026,Juniperlab Coffee,yasmin@thejuniperlab.coffee,Reels Pack,completed,$900
+B107,08/17/2026,Jared Price,jared@maplegym.co,Reels Pack,completed,$900
+B108,08/18/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B109,08/18/2026,Rise & Grind,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B110,08/18/2026,Clearwater Med Spa - Frisco,grace@clearwatermedspa.com,Reels Pack,completed,$900
+B111,08/18/2026,Elevate Pediatrics,alana@bluecatmktg.com,Reels Pack,completed,$900
+B112,08/20/2026,Hassan Detailing,paul.hassan.detail@gmail.com,Reels Pack,completed,900
+B113,08/20/2026,Prime Family Therapy,lramirez@primefamilytherapy.com,Content Day,completed,"$1,500"
+B114,08/21/2026,Big D Business Podcast,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,$550
+B115,08/24/2026,Oak Lane Roofing,jordan@oaklaneroofingco.com,Reels Pack,completed,$900
+B116,08/25/2026,Parkside,omar@parkside.build,Content Day,completed,1500
+B117,08/27/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B118,08/31/2026,Priya Wallace,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B119,08/31/2026,Luna Coffee Roasters,simone@lunacoffee.com,Reels Pack,completed,$900
+B120,08/31/2026,Zamora Auto,tony.zamora.detail@gmail.com,Reels Pack,completed,900
+B121,09/01/2026,Golden Years Home Care,carmen@goldenyearshomecare.com,Content Day,completed,"$1,500"
+B122,09/02/2026,Romero Dental PLLC,office@romerodental.com,Content Day,completed,"$1,500"
+B123,09/02/2026,Lakeside Bridal Boutique,joy@lakesidebridal.com,Reels Pack,completed,900
+B124,09/02/2026,Magnolia Chiro,drwallace@magnoliachiro.com,Reels Pack,completed,$900
+B125,09/03/2026,Luis Zamora,luis@kingsleybarbers.com,Reels Pack,completed,900
+B126,09/07/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B127,09/07/2026,Bayou,dana@bayouathletics.com,Reels Pack,completed,900
+B128,09/07/2026,Castillo Insurance,david@castilloinsures.com,Retainer Shoot,completed,$0
+B129,09/08/2026,Big D Business,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,550
+B130,09/08/2026,Bluebonnet PT Dallas,mshah@bluebonnetptdallas.com,Retainer Shoot,completed,$0
+B131,09/10/2026,Priya Wallace,priya@riseandgrind.fm,Podcast Studio 2hr,completed,300
+B132,09/10/2026,Cedar WP,wcarter@cedarwp.com,Retainer Shoot,completed,$0
+B133,09/14/2026,Jared Price,jared@maplegym.co,Reels Pack,completed,$900
+B134,09/14/2026,Mikes Roofing,mike@mikesroofingtx.com,Reels Pack,completed,900
+B135,09/16/2026,Jen Hassan,info@hassanfamilylaw.com,Reels Pack,completed,900
+B136,09/16/2026,Red Oak Realty,brooke@redoakrealty.com,Content Day,completed,"$1,500"
+B137,09/16/2026,Pecan DFW,media@pecandfw.org,Podcast Studio 2hr,completed,270
+B138,09/16/2026,Rise and Grind,priya.wallace.mail@gmail.com,Podcast Studio 2hr,completed,300
+B139,09/16/2026,Clearwater Med Spa - Frisco,grace@clearwatermedspa.com,Reels Pack,completed,$900
+B140,09/21/2026,Hassan Dental,office@hassandental.com,Content Day,completed,"$1,500"
+B141,09/21/2026,Big D Business Podcast,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,$550
+B142,09/21/2026,Bluecat - Elevate,sdaniels@elevatepeds.com,Reels Pack,completed,$900
+B143,09/23/2026,Red Oak Realty,brooke@redoakrealty.com,Content Day,cancelled,1500
+B144,09/24/2026,Jordan Grant,jordan@oaklaneroofingco.com,Reels Pack,completed,$900
+B145,09/24/2026,The Juniper Lab,yasmin@thejuniperlab.coffee,Reels Pack,completed,$900
+B146,09/25/2026,Hassan Detailing,paul.hassan.detail@gmail.com,Reels Pack,completed,900
+B147,09/28/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B148,09/28/2026,R&G Podcast,priya@riseandgrind.fm,Podcast Studio 2hr,completed,$300
+B149,09/28/2026,Prime Therapy,lramirez@primefamilytherapy.com,Content Day,completed,"$1,500"
+B150,09/28/2026,Bloom & Co Builders,simone@bloom.build,Content Day,completed,"$1,500"
+B151,09/29/2026,Stonebridge Medspa,nadia@stonebridgemedspa.com,Content Day,completed,1500
+B152,09/29/2026,Kingsley Barbers,luis@kingsleybarbers.com,Reels Pack,completed,$900
+B153,10/01/2026,Parkside & Co Builders,omar@parkside.build,Content Day,completed,"$1,500"
+B154,10/05/2026,Pecan Church,media@pecandfw.org,Podcast Studio 2hr,completed,$270
+B155,10/05/2026,Big D Business Podcast,marcus@bigdbusiness.fm,Podcast Studio 4hr,completed,550
+B156,10/05/2026,Brooke Romero,brooke@redoakrealty.com,Content Day,completed,"$1,500"
+B157,10/06/2026,Zamora Auto,tony.zamora.detail@gmail.com,Reels Pack,upcoming,$900
+B158,10/07/2026,Redoak RG,victor@redoakrg.com,Content Day,upcoming,"$1,500"
+B159,10/07/2026,Cedar Wealth,wcarter@cedarwp.com,Retainer Shoot,upcoming,$0
+B160,10/07/2026,Castillo Ins,david@castilloinsures.com,Retainer Shoot,upcoming,0
+B161,10/08/2026,Luna Roasters,simone@lunacoffee.com,Reels Pack,upcoming,$900
+B162,10/12/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,upcoming,$270
+B163,10/12/2026,R&G Podcast,priya.wallace.mail@gmail.com,Podcast Studio 2hr,upcoming,300
+B164,10/12/2026,Lakeside Bridal Boutique,joy@lakesidebridal.com,Reels Pack,upcoming,900
+B165,10/12/2026,Bayou,dana@bayouathletics.com,Reels Pack,upcoming,$900
+B166,10/12/2026,Bluebonnet PT,mshah@bluebonnetptdallas.com,Retainer Shoot,upcoming,$0
+B167,10/12/2026,Bluecat - Dr.,drwallace@magnoliachiro.com,Reels Pack,upcoming,$900
+B168,10/16/2026,Dr Romero,office@romerodental.com,Content Day,upcoming,"$1,500"
+B169,10/16/2026,Clearwater Medspa,grace@clearwatermedspa.com,Reels Pack,upcoming,$900
+B170,10/16/2026,Mike's Roofing,mike@mikesroofingtx.com,Reels Pack,upcoming,900
+B171,10/19/2026,Hassan Family Law PLLC,info@hassanfamilylaw.com,Reels Pack,upcoming,900
+B172,10/19/2026,Pecan Media Team,media@pecandfw.org,Podcast Studio 2hr,upcoming,$270
+B173,10/19/2026,Big D Business Podcast,marcus@bigdbusiness.fm,Podcast Studio 4hr,upcoming,$550
+B174,10/19/2026,Maple Gym TX,jared@maplegym.co,Reels Pack,upcoming,$900

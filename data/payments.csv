@@ -1,0 +1,129 @@
+payment_id,date,payer,payer_email,amount,method,reference
+P5001,11/04/2026,RISE & GRIND PODCAST,priya@riseandgrind.fm,300.00,card,
+P5002,14/04/2026,WILL ADEYEMI,media@pecandfw.org,300.00,card,INV-1001
+P5003,15/04/2026,OAK LANE ROOFING CO,jordan@oaklaneroofingco.com,900.00,card,INV-1006
+P5004,19/04/2026,Hassan Dental,office@hassandental.com,1500.00,card,INV-1003
+P5005,20/04/2026,Parkside & Co Builders,omar@parkside.build,1500.00,Zelle,
+P5006,21/04/2026,PECAN DFW,media@pecandfw.org,300.00,card,INV-1009
+P5007,21/04/2026,Marcus Nguyen,marcus@bigdbusiness.fm,550.00,card,INV-1004
+P5008,23/04/2026,Stonebridge Medspa,nadia@stonebridgemedspa.com,1500.00,card,INV-1010
+P5009,27/04/2026,Rise and Grind,priya@riseandgrind.fm,300.00,card,INV-1008
+P5010,29/04/2026,Big D Business Podcast,marcus@bigdbusiness.fm,550.00,card,INV-1012
+P5011,02/05/2026,LAKESIDE BRIDAL,joy@lakesidebridal.com,900.00,Zelle,
+P5012,04/05/2026,Castillo Insurance,david@castilloinsures.com,2500.00,card,
+P5013,06/05/2026,Pecan Church,media@pecandfw.org,300.00,Zelle,INV-1007
+P5014,06/05/2026,Cedar WP,wcarter@cedarwp.com,2500.00,Zelle,
+P5015,07/05/2026,RISE & GRIND PODCAST,priya@riseandgrind.fm,300.00,card,INV-1018
+P5016,08/05/2026,CARTER LAW,jcarter@carterlaw.com,2500.00,card,
+P5017,11/05/2026,R&G PODCAST,priya@riseandgrind.fm,300.00,card,INV-1011
+P5018,13/05/2026,Pecan Church,media@pecandfw.org,300.00,ACH,INV-1016
+P5019,13/05/2026,RISE & GRIND PODCAST,priya@riseandgrind.fm,300.00,Zelle,INV-1021
+P5020,14/05/2026,BAYOU ATHLETICS,dana@bayoufit.co,900.00,card,INV-1020
+P5021,14/05/2026,BIG D BUSINESS,marcus@bigdbusiness.fm,550.00,Zelle,
+P5022,25/05/2026,Dr Hassan,office@hassandental.com,1500.00,ACH,INV-1025
+P5023,28/05/2026,Pecan Media Team,media@pecandfw.org,270.00,Zelle,INV-1031
+P5024,29/05/2026,PECAN CHURCH,media@pecandfw.org,270.00,card,INV-1019
+P5025,30/05/2026,Kingsley Barbershop,luis@kingsleybarbers.com,900.00,Zelle,INV-1029
+P5026,31/05/2026,PRIYA WALLACE,priya@riseandgrind.fm,300.00,ACH,
+P5027,02/06/2026,PECAN CHURCH,media@pecandfw.org,270.00,card,INV-1024
+P5028,02/06/2026,WES CARTER,wcarter@cedarwp.com,2500.00,Zelle,
+P5029,03/06/2026,Rise & Grind Podcast,priya@riseandgrind.fm,300.00,Zelle,
+P5030,04/06/2026,Jordan Grant,jordan@oaklaneroofingco.com,900.00,card,INV-1027
+P5031,06/06/2026,WILL ADEYEMI,media@pecandfw.org,270.00,card,INV-1028
+P5032,06/06/2026,Clearwater Med Spa - Frisco,grace@clearwatermedspa.com,900.00,card,INV-1023
+P5033,07/06/2026,Dr Romero,office@romerodental.com,1500.00,ACH,
+P5034,08/06/2026,Joy Delgado,joy@lakesidebridal.com,900.00,card,
+P5035,13/06/2026,MARCUS NGUYEN,marcus@bigdbusiness.fm,550.00,card,
+P5036,14/06/2026,Rise and Grind,priya@riseandgrind.fm,300.00,card,INV-1048
+P5037,14/06/2026,JEN HASSAN,info@hassanfamilylaw.com,900.00,ACH,
+P5038,14/06/2026,MARCUS NGUYEN,marcus@bigdbusiness.fm,550.00,ACH,INV-1046
+P5039,15/06/2026,PECAN CHURCH,media@pecandfw.org,270.00,ACH,INV-1047
+P5040,15/06/2026,Bayou Athletics,dana@bayoufit.co,900.00,ACH,INV-1044
+P5041,17/06/2026,RED OAK REALTY,brooke@redoakrealty.com,1500.00,Zelle,INV-1033
+P5042,17/06/2026,R&G PODCAST,priya@riseandgrind.fm,300.00,card,INV-1049
+P5043,18/06/2026,RISE & GRIND PODCAST,priya@riseandgrind.fm,300.00,ACH,
+P5044,19/06/2026,DAVID CASTILLO,david@castilloinsures.com,2500.00,card,INV-1034
+P5045,19/06/2026,BLUEBONNET PT,mshah@bluebonnetptdallas.com,2500.00,ACH,INV-1035
+P5046,19/06/2026,Carter Law,jcarter@carterlaw.com,2500.00,card,
+P5047,23/06/2026,WILL ADEYEMI,media@pecandfw.org,270.00,Zelle,INV-1038
+P5048,23/06/2026,CLEARWATER MED SPA,grace@clearwatermedspa.com,900.00,Zelle,INV-1051
+P5049,26/06/2026,Stonebridge Med Spa,nadia@stonebridgemedspa.com,1500.00,ACH,INV-1050
+P5050,29/06/2026,SIMONE ADEYEMI,simone@bloom.build,1500.00,ACH,INV-1055
+P5051,30/06/2026,R&G PODCAST,priya@riseandgrind.fm,300.00,card,INV-1057
+P5052,01/07/2026,Parkside Builders,omar@parkside.build,1500.00,card,INV-1042
+P5053,02/07/2026,HASSAN DENTAL,office@hassandental.com,1500.00,Zelle,
+P5054,03/07/2026,LUNA COFFEE ROASTERS,simone@lunacoffee.com,900.00,card,INV-1054
+P5055,04/07/2026,CARTER LAW FIRM,jcarter@carterlaw.com,2500.00,ACH,
+P5056,05/07/2026,BLUECAT AGENCY LLC,alana@bluecatmktg.com,900.00,ACH,Bluecat Jun invoices
+P5057,07/07/2026,Kingsley Barbers,luis@kingsleybarbers.com,900.00,card,INV-1053
+P5058,08/07/2026,MIA SHAH,mshah@bluebonnetptdallas.com,2500.00,Zelle,INV-1060
+P5059,09/07/2026,Luis Zamora,luis@kingsleybarbers.com,900.00,ACH,INV-1053
+P5060,10/07/2026,Castillo Insurance Group,david@castilloinsures.com,2500.00,Zelle,INV-1061
+P5061,11/07/2026,JOY DELGADO,joy@lakesidebridal.com,900.00,card,INV-1066
+P5062,12/07/2026,WILL ADEYEMI,media@pecandfw.org,270.00,card,INV-1065
+P5063,12/07/2026,PECAN DFW,media@pecandfw.org,270.00,ACH,INV-1052
+P5064,14/07/2026,Jared Price,jared@maplegym.co,900.00,card,INV-1067
+P5065,16/07/2026,WILL ADEYEMI,media@pecandfw.org,270.00,Zelle,
+P5066,17/07/2026,Big D Business Podcast,marcus@bigdbusiness.fm,550.00,Zelle,INV-1056
+P5067,17/07/2026,THE JUNIPER LAB,yasmin@thejuniperlab.coffee,900.00,card,
+P5068,18/07/2026,Rise & Grind Podcast,priya@riseandgrind.fm,300.00,card,INV-1068
+P5069,19/07/2026,Big D Business Podcast,marcus@bigdbusiness.fm,550.00,card,
+P5070,19/07/2026,CEDAR WEALTH PARTNERS,wcarter@cedarwp.com,2500.00,card,INV-1059
+P5071,20/07/2026,ROMERO DENTAL,office@romerodental.com,1500.00,ACH,INV-1075
+P5072,24/07/2026,Rise & Grind,priya@riseandgrind.fm,300.00,card,INV-1079
+P5073,24/07/2026,CLEARWATER MEDSPA,grace@clearwatermedspa.com,900.00,ACH,INV-1071
+P5074,27/07/2026,Pecan Church,media@pecandfw.org,270.00,Zelle,INV-1077
+P5075,29/07/2026,Rise & Grind,priya@riseandgrind.fm,300.00,card,INV-1082
+P5076,29/07/2026,Prime Family Therapy,lramirez@primefamilytherapy.com,1500.00,Zelle,INV-1076
+P5077,02/08/2026,Parkside & Co Builders,omar@parkside.build,1500.00,card,INV-1069
+P5078,02/08/2026,Jordan Grant,jordan@oaklaneroofingco.com,900.00,Zelle,INV-1070
+P5079,03/08/2026,Cedar WP,wcarter@cedarwp.com,2500.00,card,INV-1086
+P5080,04/08/2026,BAYOU ATHLETICS,dana@bayouathletics.com,900.00,card,INV-1078
+P5081,04/08/2026,Bluebonnet Physical Therapy,mshah@bluebonnetptdallas.com,2000.00,card,INV-1088
+P5082,05/08/2026,BLUECAT AGENCY LLC,alana@bluecatmktg.com,1800.00,ACH,Bluecat Jul invoices
+P5084,06/08/2026,Luis Zamora,luis@kingsleybarbers.com,900.00,card,INV-1084
+P5085,07/08/2026,Hassan Family Law PLLC,info@hassanfamilylaw.com,900.00,card,INV-1073
+P5086,08/08/2026,BIG D BUSINESS PODCAST,marcus@bigdbusiness.fm,550.00,Zelle,INV-1091
+P5087,12/08/2026,PECAN CHURCH,media@pecandfw.org,270.00,Zelle,INV-1080
+P5088,12/08/2026,NADIA PARK,nadia@stonebridgemedspa.com,1500.00,card,INV-1095
+P5089,14/08/2026,RED OAK REALTY,brooke@redoakrealty.com,1500.00,ACH,INV-1083
+P5090,17/08/2026,WILL ADEYEMI,media@pecandfw.org,270.00,card,INV-1094
+P5091,18/08/2026,MIKE ORTIZ,,450.00,Zelle,half now half later
+P5092,18/08/2026,Pecan Church,media@pecandfw.org,270.00,ACH,INV-1085
+P5093,19/08/2026,Maple,jared@maplegym.co,900.00,card,
+P5094,19/08/2026,Castillo Insurance,david@castilloinsures.com,2500.00,card,INV-1087
+P5095,27/08/2026,Hassan Family Law,info@hassanfamilylaw.com,900.00,Zelle,INV-1096
+P5096,28/08/2026,Clearwater,grace@clearwatermedspa.com,900.00,ACH,INV-1101
+P5097,29/08/2026,HASSAN AUTO,paul.hassan.detail@gmail.com,900.00,Zelle,INV-1104
+P5098,31/08/2026,BAYOU ATHLETICS,dana@bayouathletics.com,900.00,Zelle,
+P5099,31/08/2026,Parkside Builders,omar@parkside.build,1500.00,Zelle,INV-1111
+P5100,31/08/2026,Oak Lane Roofing Co,jordan@oaklaneroofingco.com,900.00,ACH,INV-1109
+P5101,31/08/2026,Bloom Builders LLC,simone@bloom.build,1500.00,card,INV-1097
+P5102,31/08/2026,Big D Business,marcus@bigdbusiness.fm,550.00,card,
+P5103,01/09/2026,Prime Family Therapy,lramirez@primefamilytherapy.com,1500.00,card,INV-1107
+P5104,03/09/2026,PRIYA WALLACE,,900.00,Zelle,august sessions
+P5105,03/09/2026,LAKESIDE BRIDAL BOUTIQUE,joy@lakesidebridal.com,900.00,ACH,
+P5106,04/09/2026,BLUECAT AGENCY LLC,alana@bluecatmktg.com,1800.00,ACH,Bluecat Aug invoices
+P5107,06/09/2026,Luna Roasters,simone@lunacoffee.com,900.00,card,
+P5108,08/09/2026,WES CARTER,wcarter@cedarwp.com,2500.00,card,
+P5109,11/09/2026,PECAN DFW,media@pecandfw.org,270.00,card,
+P5110,14/09/2026,RISE & GRIND PODCAST,priya@riseandgrind.fm,300.00,card,INV-1125
+P5111,14/09/2026,Marcus Nguyen,marcus@bigdbusiness.fm,550.00,Zelle,INV-1124
+P5112,17/09/2026,PRIYA WALLACE,priya@riseandgrind.fm,300.00,Zelle,INV-1127
+P5113,18/09/2026,Maple Gym,jared@maplegym.co,900.00,card,INV-1131
+P5114,18/09/2026,Pecan Church,media@pecandfw.org,270.00,card,INV-1130
+P5115,18/09/2026,HASSAN LAW,info@hassanfamilylaw.com,900.00,Zelle,INV-1126
+P5116,19/09/2026,Zamora Auto,tony.zamora.detail@gmail.com,900.00,ACH,INV-1117
+P5117,19/09/2026,BLUEBONNET PT,mshah@bluebonnetptdallas.com,2500.00,card,
+P5118,22/09/2026,Clearwater Med Spa - Frisco,grace@clearwatermedspa.com,900.00,Zelle,INV-1128
+P5119,24/09/2026,Hassan Dental,office@hassandental.com,1500.00,card,INV-1134
+P5120,25/09/2026,Kingsley Barbershop,luis@kingsleybarbers.com,900.00,card,INV-1119
+P5121,29/09/2026,Bayou Fitness,dana@bayouathletics.com,900.00,card,INV-1122
+P5122,29/09/2026,Mike's Roofing LLC,mike@mikesroofingtx.com,900.00,card,
+P5123,29/09/2026,BROOKE ROMERO,brooke@redoakrealty.com,1500.00,card,INV-1132
+P5124,29/09/2026,BIG D BUSINESS PODCAST,marcus@bigdbusiness.fm,550.00,ACH,INV-1135
+P5125,30/09/2026,PECAN CHURCH,media@pecandfw.org,270.00,ACH,INV-1123
+P5126,03/10/2026,BLUECAT AGENCY LLC,alana@bluecatmktg.com,900.00,ACH,Bluecat Sep invoices
+P5127,05/10/2026,Hassan Auto Detailing,paul.hassan.detail@gmail.com,900.00,card,
+P5128,06/10/2026,Red Oak Realty LLC,brooke@redoakrealty.com,1500.00,card,
+P5129,06/10/2026,OAK LANE ROOFING,jordan@oaklaneroofingco.com,900.00,card,

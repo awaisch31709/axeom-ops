@@ -1,0 +1,154 @@
+invoice_no,bill_to,email,issued,due,amount,status,memo
+INV-1001,Pecan DFW,media@pecandfw.org,2026-04-02,2026-04-16,300.00,paid,
+INV-1002,R&G Podcast,priya@riseandgrind.fm,2026-04-06,2026-04-20,300.00,paid,Podcast Studio 2hr 4/6
+INV-1003,Mia Hassan DDS,office@hassandental.com,2026-04-10,2026-04-24,1500.00,paid,Content Day 4/9
+INV-1004,Big D Business,marcus@bigdbusiness.fm,2026-04-12,2026-04-26,550.00,paid,Podcast Studio 4hr 4/10
+INV-1005,Parkside Builders,omar@parkside.build,2026-04-13,2026-04-27,1500.00,paid,B005 Content Day
+INV-1006,Oak Lane Roofing,jordan@oaklaneroofingco.com,2026-04-14,2026-04-28,900.00,paid,
+INV-1007,Pecan Media Team,media@pecandfw.org,2026-04-14,2026-04-28,300.00,paid,Podcast Studio 2hr 4/13
+INV-1008,Rise & Grind,priya@riseandgrind.fm,2026-04-18,2026-05-02,300.00,paid,
+INV-1009,Pecan DFW,media@pecandfw.org,2026-04-20,2026-05-04,300.00,paid,
+INV-1010,Stonebridge Med Spa - Frisco,nadia@stonebridgemedspa.com,2026-04-20,2026-05-04,1500.00,paid,Content Day 4/20
+INV-1011,Rise & Grind Podcast,priya@riseandgrind.fm,2026-04-23,2026-05-07,300.00,paid,
+INV-1012,Big D Business,marcus@bigdbusiness.fm,2026-04-26,2026-05-10,550.00,paid,
+INV-1013,Joy Delgado,joy@lakesidebridal.com,2026-04-29,2026-05-13,900.00,paid,Reels Pack 4/28
+INV-1014,Castillo Ins,david@castilloinsures.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1015,Cedar WP,wcarter@cedarwp.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1016,Pecan DFW,media@pecandfw.org,2026-05-01,2026-05-15,300.00,paid,Podcast Studio 2hr 4/30
+INV-1017,Carter Law Firm,jcarter@carterlaw.com,2026-05-01,2026-05-15,2500.00,paid,Monthly retainer May
+INV-1018,Rise & Grind Podcast,priya@riseandgrind.fm,2026-05-04,2026-05-18,300.00,paid,
+INV-1019,Pecan DFW,media@pecandfw.org,2026-05-07,2026-05-21,270.00,paid,B017 Podcast Studio 2hr
+INV-1020,Bayou,dana@bayoufit.co,2026-05-11,2026-05-25,900.00,paid,
+INV-1021,Priya Wallace,priya@riseandgrind.fm,2026-05-12,2026-05-26,300.00,paid,
+INV-1022,Big D Business Podcast,marcus@bigdbusiness.fm,2026-05-12,2026-05-26,550.00,paid,
+INV-1023,Clearwater Med Spa - Frisco,grace@clearwatermedspa.com,2026-05-15,2026-05-29,900.00,paid,Reels Pack 5/13
+INV-1024,Pecan Media Team,media@pecandfw.org,2026-05-15,2026-05-29,270.00,paid,Podcast Studio 2hr 5/14
+INV-1025,Dr. Mia Hassan,office@hassandental.com,2026-05-18,2026-06-01,1500.00,paid,
+INV-1026,Priya Wallace,priya@riseandgrind.fm,2026-05-19,2026-06-02,300.00,paid,
+INV-1027,Jordan Grant,jordan@oaklaneroofingco.com,2026-05-20,2026-06-03,900.00,paid,B028 Reels Pack
+INV-1028,Pecan Media Team,media@pecandfw.org,2026-05-22,2026-06-05,270.00,paid,
+INV-1029,Kingsley Barbers,luis@kingsleybarbers.com,2026-05-23,2026-06-06,900.00,paid,
+INV-1030,Big D Business,marcus@bigdbusiness.fm,2026-05-26,2026-06-09,550.00,paid,B031 Podcast Studio 4hr
+INV-1031,Pecan Church,media@pecandfw.org,2026-05-27,2026-06-10,270.00,paid,
+INV-1032,R&G Podcast,priya@riseandgrind.fm,2026-05-27,2026-06-10,300.00,paid,
+INV-1033,Red Oak Realty,brooke@redoakrealty.com,2026-05-30,2026-06-13,1500.00,paid,B035 Content Day
+INV-1034,David Castillo,david@castilloinsures.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1035,Bluebonnet PT,mshah@bluebonnetptdallas.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1036,Cedar Wealth,wcarter@cedarwp.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1037,Carter,jcarter@carterlaw.com,2026-06-01,2026-06-15,2500.00,paid,Monthly retainer June
+INV-1038,Pecan Media Team,media@pecandfw.org,2026-06-05,2026-06-19,270.00,paid,Podcast Studio 2hr 6/4
+INV-1039,Lakeside Bridal Boutique,joy@lakesidebridal.com,2026-06-05,2026-06-19,900.00,paid,Reels Pack 6/2
+INV-1040,Dr. Kim Romero,office@romerodental.com,2026-06-05,2026-06-19,1500.00,paid,Content Day 6/5
+INV-1041,R&G Podcast,priya@riseandgrind.fm,2026-06-06,2026-06-20,300.00,paid,B038 Podcast Studio 2hr
+INV-1042,Parkside,omar@parkside.build,2026-06-09,2026-06-23,1500.00,paid,
+INV-1043,Jen Hassan,info@hassanfamilylaw.com,2026-06-09,2026-06-23,900.00,paid,
+INV-1044,Bayou Fitness,dana@bayoufit.co,2026-06-10,2026-06-24,900.00,paid,
+INV-1045,Bluecat Agency,alana@bluecatmktg.com,2026-06-11,2026-06-25,900.00,paid,B047 Reels Pack
+INV-1046,Big D Business,marcus@bigdbusiness.fm,2026-06-13,2026-06-27,550.00,paid,Podcast Studio 4hr 6/12
+INV-1047,Pecan Media Team,media@pecandfw.org,2026-06-13,2026-06-27,270.00,paid,B044 Podcast Studio 2hr
+INV-1048,R&G Podcast,priya@riseandgrind.fm,2026-06-13,2026-06-27,300.00,paid,B045 Podcast Studio 2hr
+INV-1049,Rise & Grind,priya@riseandgrind.fm,2026-06-16,2026-06-30,300.00,paid,Podcast Studio 2hr 6/16
+INV-1050,Stonebridge Med Spa - Plano,nadia@stonebridgemedspa.com,2026-06-17,2026-07-01,1500.00,paid,B053 Content Day
+INV-1051,Clearwater Medspa,grace@clearwatermedspa.com,2026-06-18,2026-07-02,900.00,paid,
+INV-1052,Pecan Church,media@pecandfw.org,2026-06-20,2026-07-04,270.00,paid,B055 Podcast Studio 2hr
+INV-1053,Luis Zamora,luis@kingsleybarbers.com,2026-06-22,2026-07-06,900.00,paid,B056 Reels Pack
+INV-1054,Luna Coffee Roasters,simone@lunacoffee.com,2026-06-24,2026-07-08,900.00,paid,
+INV-1055,Bloom & Co Builders,simone@bloom.build,2026-06-27,2026-07-11,1500.00,paid,B058 Content Day
+INV-1056,Big D Business Podcast,marcus@bigdbusiness.fm,2026-06-29,2026-07-13,550.00,paid,B062 Podcast Studio 4hr
+INV-1057,Rise & Grind,priya@riseandgrind.fm,2026-06-29,2026-07-13,300.00,paid,Podcast Studio 2hr 6/29
+INV-1058,Dr. Mia Hassan,office@hassandental.com,2026-06-29,2026-07-13,1500.00,paid,Content Day 6/29
+INV-1059,Cedar Wealth Partners,wcarter@cedarwp.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1060,Bluebonnet Physical Therapy,mshah@bluebonnetptdallas.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1061,Castillo Insurance,david@castilloinsures.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1062,Pecan Church,media@pecandfw.org,2026-07-01,2026-07-15,270.00,paid,Podcast Studio 2hr 6/29
+INV-1063,Carter,jcarter@carterlaw.com,2026-07-01,2026-07-15,2500.00,paid,Monthly retainer July
+INV-1064,Bluecat Agency,alana@bluecatmktg.com,2026-07-03,2026-07-17,900.00,paid,Reels Pack 7/1
+INV-1065,Pecan Media Team,media@pecandfw.org,2026-07-07,2026-07-21,270.00,paid,
+INV-1066,Lakeside Bridal Boutique,joy@lakesidebridal.com,2026-07-08,2026-07-22,900.00,paid,B067 Reels Pack
+INV-1067,Maple,jared@maplegym.co,2026-07-11,2026-07-25,900.00,paid,
+INV-1068,Rise & Grind Podcast,priya@riseandgrind.fm,2026-07-13,2026-07-27,300.00,paid,
+INV-1069,Parkside Builders LLC,omar@parkside.build,2026-07-15,2026-07-29,1500.00,paid,B070 Content Day
+INV-1070,Oak Lane Roofing Co,jordan@oaklaneroofingco.com,2026-07-15,2026-07-29,900.00,paid,Reels Pack 7/14
+INV-1071,Clearwater,grace@clearwatermedspa.com,2026-07-15,2026-07-29,900.00,paid,Reels Pack 7/13
+INV-1072,Juniper Lab,yasmin@thejuniperlab.coffee,2026-07-16,2026-07-30,900.00,paid,B072 Reels Pack
+INV-1073,Hassan Family Law PLLC,info@hassanfamilylaw.com,2026-07-16,2026-07-30,900.00,unpaid,Reels Pack 7/15
+INV-1074,Big D Business,marcus@bigdbusiness.fm,2026-07-16,2026-07-30,550.00,paid,B080 Podcast Studio 4hr
+INV-1075,Dr. Kim Romero,office@romerodental.com,2026-07-17,2026-07-31,1500.00,paid,
+INV-1076,Prime Family Therapy,lramirez@primefamilytherapy.com,2026-07-17,2026-07-31,1500.00,paid,Content Day 7/14
+INV-1077,Pecan Media Team,media@pecandfw.org,2026-07-18,2026-08-01,270.00,unpaid,Podcast Studio 2hr 7/15
+INV-1078,Bayou Fit,dana@bayoufit.co,2026-07-20,2026-08-03,900.00,paid,B081 Reels Pack
+INV-1079,R&G Podcast,priya@riseandgrind.fm,2026-07-21,2026-08-04,300.00,paid,B083 Podcast Studio 2hr
+INV-1080,Pecan Media Team,media@pecandfw.org,2026-07-21,2026-08-04,270.00,paid,
+INV-1081,Bluecat Agency,alana@bluecatmktg.com,2026-07-22,2026-08-05,900.00,paid,B085 Reels Pack
+INV-1082,Rise & Grind Podcast,priya@riseandgrind.fm,2026-07-27,2026-08-10,300.00,paid,Podcast Studio 2hr 7/27
+INV-1083,Red Oak Realty,brooke@redoakrealty.com,2026-07-27,2026-08-10,1500.00,paid,Content Day 7/27
+INV-1084,Kingsley Barbers,luis@kingsleybarbers.com,2026-07-28,2026-08-11,900.00,paid,Reels Pack 7/27
+INV-1085,Pecan Church,media@pecandfw.org,2026-07-31,2026-08-14,270.00,paid,B089 Podcast Studio 2hr
+INV-1086,Cedar WP,wcarter@cedarwp.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1087,David Castillo,david@castilloinsures.com,2026-08-01,2026-08-15,2500.00,paid,Monthly retainer August
+INV-1088,Bluebonnet Physical Therapy,mshah@bluebonnetptdallas.com,2026-08-01,2026-08-15,2000.00,paid,Monthly retainer August
+INV-1089,Joy Delgado,joy@lakesidebridal.com,2026-08-04,2026-08-18,900.00,paid,B091 Reels Pack
+INV-1090,Bluecat Agency,alana@bluecatmktg.com,2026-08-05,2026-08-19,900.00,paid,B093 Reels Pack
+INV-1091,Big D Business Podcast,marcus@bigdbusiness.fm,2026-08-05,2026-08-19,550.00,paid,
+INV-1092,R&G Podcast,priya@riseandgrind.fm,2026-08-07,2026-08-21,300.00,unpaid,Podcast Studio 2hr 8/7
+INV-1093,Mikes Roofing,mike@mikesroofingtx.com,2026-08-08,2026-08-22,900.00,partial,Reels Pack 8/5
+INV-1094,Pecan Media Team,media@pecandfw.org,2026-08-10,2026-08-24,270.00,paid,Podcast Studio 2hr 8/10
+INV-1095,Stonebridge Med Spa - Frisco,nadia@stonebridgemedspa.com,2026-08-10,2026-08-24,1500.00,paid,Content Day 8/10
+INV-1096,Hassan Family Law PLLC,info@hassanfamilylaw.com,2026-08-12,2026-08-26,900.00,paid,
+INV-1097,Bloom,simone@bloom.build,2026-08-13,2026-08-27,1500.00,paid,B103 Content Day
+INV-1098,Bayou Athletics,dana@bayouathletics.com,2026-08-13,2026-08-27,900.00,paid,
+INV-1099,Victor Malik,victor@redoakrg.com,2026-08-13,2026-08-27,1500.00,unpaid,
+INV-1100,Maple Gym,jared@maplegym.co,2026-08-17,2026-08-31,900.00,paid,
+INV-1101,Clearwater Med Spa,grace@clearwatermedspa.com,2026-08-19,2026-09-02,900.00,paid,B110 Reels Pack
+INV-1102,Bluecat Agency,alana@bluecatmktg.com,2026-08-19,2026-09-02,900.00,paid,
+INV-1103,Rise and Grind,priya@riseandgrind.fm,2026-08-19,2026-09-02,300.00,unpaid,Podcast Studio 2hr 8/18
+INV-1104,Hassan Auto,paul.hassan.detail@gmail.com,2026-08-20,2026-09-03,900.00,paid,Reels Pack 8/20
+INV-1105,The Juniper Lab,yasmin@thejuniperlab.coffee,2026-08-20,2026-09-03,900.00,unpaid,
+INV-1106,Pecan Media Team,media@pecandfw.org,2026-08-20,2026-09-03,270.00,paid,
+INV-1107,Prime Therapy,lramirez@primefamilytherapy.com,2026-08-23,2026-09-06,1500.00,paid,B113 Content Day
+INV-1108,Big D Business Podcast,marcus@bigdbusiness.fm,2026-08-24,2026-09-07,550.00,paid,Podcast Studio 4hr 8/21
+INV-1109,Jordan Grant,jordan@oaklaneroofingco.com,2026-08-26,2026-09-09,900.00,paid,
+INV-1110,Pecan Media Team,media@pecandfw.org,2026-08-27,2026-09-10,270.00,unpaid,
+INV-1111,Parkside & Co Builders,omar@parkside.build,2026-08-28,2026-09-11,1500.00,paid,
+INV-1112,Priya Wallace,priya@riseandgrind.fm,2026-08-31,2026-09-14,300.00,unpaid,Podcast Studio 2hr 8/31
+INV-1113,Castillo Insurance Group,david@castilloinsures.com,2026-09-01,2026-09-15,2500.00,unpaid,Monthly retainer September
+INV-1114,Luna Coffee Roasters,simone@lunacoffee.com,2026-09-01,2026-09-15,900.00,paid,B119 Reels Pack
+INV-1115,Cedar Wealth Partners,wcarter@cedarwp.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1116,Bluebonnet PT,mshah@bluebonnetptdallas.com,2026-09-01,2026-09-15,2500.00,paid,Monthly retainer September
+INV-1117,Tony Zamora,tony.zamora.detail@gmail.com,2026-09-01,2026-09-15,900.00,paid,Reels Pack 8/31
+INV-1118,Lakeside Bridal,joy@lakesidebridal.com,2026-09-02,2026-09-16,900.00,paid,Reels Pack 9/2
+INV-1119,Kingsley Barbers,luis@kingsleybarbers.com,2026-09-03,2026-09-17,900.00,paid,B125 Reels Pack
+INV-1120,Golden Years Home Care,carmen@goldenyearshomecare.com,2026-09-03,2026-09-17,1500.00,unpaid,Content Day 9/1
+INV-1121,Bluecat Agency,alana@bluecatmktg.com,2026-09-04,2026-09-18,900.00,paid,B124 Reels Pack
+INV-1122,Bayou,dana@bayouathletics.com,2026-09-07,2026-09-21,900.00,paid,B127 Reels Pack
+INV-1123,Pecan DFW,media@pecandfw.org,2026-09-08,2026-09-22,270.00,paid,Podcast Studio 2hr 9/7
+INV-1124,Marcus Nguyen,marcus@bigdbusiness.fm,2026-09-11,2026-09-25,550.00,paid,B129 Podcast Studio 4hr
+INV-1125,Rise and Grind,priya@riseandgrind.fm,2026-09-13,2026-09-27,300.00,paid,
+INV-1126,Jen Hassan,info@hassanfamilylaw.com,2026-09-16,2026-09-30,900.00,paid,Reels Pack 9/16
+INV-1127,R&G Podcast,priya@riseandgrind.fm,2026-09-16,2026-09-30,300.00,paid,B138 Podcast Studio 2hr
+INV-1128,Clearwater Med Spa - Plano,grace@clearwatermedspa.com,2026-09-17,2026-10-01,900.00,paid,Reels Pack 9/16
+INV-1129,Mike Ortiz,mike@mikesroofingtx.com,2026-09-17,2026-10-01,900.00,paid,Reels Pack 9/14
+INV-1130,Pecan DFW,media@pecandfw.org,2026-09-17,2026-10-01,270.00,paid,
+INV-1131,Jared Price,jared@maplegym.co,2026-09-17,2026-10-01,900.00,paid,B133 Reels Pack
+INV-1132,Brooke Romero,brooke@redoakrealty.com,2026-09-17,2026-10-01,1500.00,paid,B143 Content Day
+INV-1133,Brooke Romero,brooke@redoakrealty.com,2026-09-18,2026-10-02,1500.00,paid,
+INV-1134,Dr Hassan,office@hassandental.com,2026-09-21,2026-10-05,1500.00,paid,B140 Content Day
+INV-1135,Big D Business,marcus@bigdbusiness.fm,2026-09-22,2026-10-06,550.00,paid,B141 Podcast Studio 4hr
+INV-1136,Oak Lane Roofing,jordan@oaklaneroofingco.com,2026-09-24,2026-10-08,900.00,paid,
+INV-1137,Bluecat Agency,alana@bluecatmktg.com,2026-09-24,2026-10-08,900.00,unpaid,
+INV-1138,Juniperlab Coffee,yasmin@thejuniperlab.coffee,2026-09-25,2026-10-09,900.00,unpaid,
+INV-1139,Hassan Auto Detailing,paul.hassan.detail@gmail.com,2026-09-26,2026-10-10,900.00,paid,
+INV-1140,Rise and Grind,priya@riseandgrind.fm,2026-09-29,2026-10-13,300.00,unpaid,Podcast Studio 2hr 9/28
+INV-1141,Prime Therapy,lramirez@primefamilytherapy.com,2026-09-29,2026-10-13,1500.00,unpaid,Content Day 9/28
+INV-1142,Brooke Romero,brooke@redoakrealty.com,2026-09-29,2026-10-13,1500.00,unpaid,
+INV-1143,Stonebridge Med Spa,nadia@stonebridgemedspa.com,2026-09-29,2026-10-13,1500.00,unpaid,
+INV-1144,Pecan Church,media@pecandfw.org,2026-09-29,2026-10-13,270.00,unpaid,B147 Podcast Studio 2hr
+INV-1145,Kingsley Barbers,luis@kingsleybarbers.com,2026-09-30,2026-10-14,900.00,unpaid,Reels Pack 9/29
+INV-1146,David Castillo,david@castilloinsures.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1147,Cedar WP,wcarter@cedarwp.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1148,Bluebonnet PT Dallas,mshah@bluebonnetptdallas.com,2026-10-01,2026-10-15,2500.00,unpaid,Monthly retainer October
+INV-1149,Bloom Builders LLC,simone@bloom.build,2026-10-01,2026-10-15,1500.00,unpaid,Content Day 9/28
+INV-1150,Parkside Builders,omar@parkside.build,2026-10-02,2026-10-16,1500.00,unpaid,Content Day 10/1
+INV-1151,Big D Business,marcus@bigdbusiness.fm,2026-10-06,2026-10-20,550.00,unpaid,Podcast Studio 4hr 10/5
+INV-1152,Pecan Media Team,media@pecandfw.org,2026-10-06,2026-10-20,270.00,unpaid,B154 Podcast Studio 2hr
+INV-1153,Dr. Kim Romero,office@romerodental.com,2026-06-05,2026-06-19,1500.00,void,Content Day 6/5
