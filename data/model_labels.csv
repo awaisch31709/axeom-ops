@@ -1,0 +1,185 @@
+text,model_label,confidence,may_leave
+Can you cut the first 3 seconds of implants explained? It starts slow.,edit_request,1.0,0.001
+"Please blur the face of the client in first visit tour, she didn't sign the release.",edit_request,1.0,0.0
+Add our phone number at the end of the one we shot last week.,edit_request,1.0,0.0
+Add our phone number at the end of crew day.,contact_update,1.0,0.0
+Can you cut the first 3 seconds of crew intro? It starts slow.,edit_request,1.0,0.0
+The gutter guards video: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+"Please make the captions bigger on laser hair removal, they're hard to read on my phone.",edit_request,1.0,0.997
+Please take out the part in the lip filler myths video where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+Do we need to bring anything for the shoot?,scheduling,1.0,0.0
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+Can the retirement myths video have a calmer song? This one feels too hype for us.,edit_request,1.0,0.737
+On sale promo our name is spelled wrong in the caption.,edit_request,1.0,0.999
+Running 10 min late!,scheduling,1.0,0.006
+"On styling tips, use our brand color pink, not the one you used.",edit_request,1.0,0.999
+Please take out the part in the patient story video where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+My friend Dr. Kim Romero at Romero Dental wants videos too. I gave her your number!,referral,1.0,0.0
+"The music on slip and fall rights is too loud, I can't hear myself.",edit_request,1.0,0.994
+On open house promo our name is spelled wrong in the caption.,edit_request,1.0,0.926
+Can you cut the first 3 seconds of meet the attorney? It starts slow.,edit_request,1.0,0.0
+Roof inspection walkthrough: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Please take out the part in the claims made easy video where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+"Please make the captions bigger on meet the agent, they're hard to read on my phone.",edit_request,1.0,0.104
+"Hi, Alana from Bluecat Agency. Please bill us (Bluecat) for Elevate Pediatrics and Magnolia Chiropractic. We pay monthly.",billing_payment,1.0,0.0
+The listing tour: oak st video: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Styling tips: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Sales went up after the reels. You can use this as a review!,praise_or_approval,1.0,0.0
+On invisalign myths our name is spelled wrong in the caption.,edit_request,1.0,0.994
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+"Please blur the face of the client in the one we shot last week, she didn't sign the release.",edit_request,1.0,0.017
+Can you remove the bit where I stumble on my words in class schedule?,edit_request,1.0,0.068
+On car accident: first 3 steps our name is spelled wrong in the caption.,edit_request,1.0,0.321
+"On gym tour, use our brand color gold, not the one you used.",edit_request,1.0,1.0
+"For open house promo use the other shot, the one outside, not inside.",edit_request,1.0,0.0
+Can you remove the bit where I stumble on my words in back pain myths?,edit_request,1.0,0.169
+Invoice attached. Please pay immediately. (invoice.zip),billing_payment,1.0,0.0
+On the kitchen remodel reveal video our name is spelled wrong in the caption.,edit_request,1.0,0.026
+"The music on do i need a lawyer? is too loud, I can't hear myself.",edit_request,1.0,0.998
+"The music on membership promo is too loud, I can't hear myself.",edit_request,1.0,0.997
+Best content team we've worked with. New patients mention the videos.,referral,0.712,0.0
+Please take out the part in life insurance basics where I talk about prices. Prices are changing.,edit_request,1.0,0.001
+Can you cut the first 3 seconds of laser hair removal? It starts slow.,edit_request,1.0,0.0
+Yasmin at Juniper Lab loved our reels. She'll reach out.,referral,1.0,0.0
+The what a consult costs video: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Still not fixed on class schedule. A little frustrated honestly.,scheduling,1.0,0.997
+Add our phone number at the end of lip filler myths.,edit_request,1.0,0.003
+Please take out the part in the hydrafacial reveal video where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+Still not fixed on gym tour. A little frustrated honestly.,complaint_not_fixed,1.0,0.998
+Please take out the part in fall facial promo where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+FINAL NOTICE: your domain expires today. Pay now to keep it.,billing_payment,1.0,0.202
+"Please make the captions bigger on office tour, they're hard to read on my phone.",edit_request,1.0,0.755
+Add our phone number at the end of the project timeline video.,edit_request,1.0,0.0
+This is the second time I ask. membership promo is still wrong.,complaint_not_fixed,1.0,1.0
+Back pain myths still has the same problem. I already told you about this.,complaint_not_fixed,1.0,1.0
+Sale promo: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+"Please blur the face of the client in permit tips, she didn't sign the release.",edit_request,1.0,0.0
+Still not fixed on what a consult costs. A little frustrated honestly.,complaint_not_fixed,1.0,1.0
+Do we need to bring anything for the shoot?,scheduling,1.0,0.0
+"The music on the tax season tips video is too loud, I can't hear myself.",edit_request,1.0,0.998
+Can meet the advisor have a calmer song? This one feels too hype for us.,edit_request,1.0,0.867
+Owner story: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Please take out the part in nutrition tip where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+"Jordan here. We'll pause after this month. Too many rounds of fixes, and my notes keep getting missed. Nothing personal.",wants_to_leave,1.0,1.0
+See you tomorrow.,scheduling,1.0,0.0
+En the one we shot last week quiten la parte donde hablo de precios por favor.,edit_request,1.0,0.001
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+"Please make the captions bigger on insurance and cost, they're hard to read on my phone.",edit_request,1.0,1.0
+Can you cut the first 3 seconds of pastry case? It starts slow.,edit_request,1.0,0.0
+Roast day looks great. Approved! Post it.,praise_or_approval,1.0,0.0
+"On the wills in 60 seconds video, use our brand color pink, not the one you used.",edit_request,1.0,0.969
+"Please blur the face of the client in shingle vs metal, she didn't sign the release.",edit_request,1.0,0.002
+Styling tips sigue igual. Ya les había dicho.,complaint_not_fixed,1.0,0.0
+Running 10 min late!,scheduling,1.0,0.006
+The owner story video: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Add our phone number at the end of college savings.,edit_request,1.0,0.0
+"The music on the hail claim help video is too loud, I can't hear myself.",edit_request,1.0,0.998
+Can you cut the first 3 seconds of gym tour? It starts slow.,edit_request,1.0,0.0
+"Please make the captions bigger on the one we shot last week, they're hard to read on my phone.",edit_request,1.0,0.953
+Please take out the part in skin care routine where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+"The music on flu shot season is too loud, I can't hear myself.",edit_request,1.0,0.16
+Actually we changed our mind on roast day. Can we get a different song and a new intro? Sorry!,edit_request,1.0,0.0
+On fall facial promo our name is spelled wrong in the caption.,edit_request,1.0,0.95
+On nutrition tip our name is spelled wrong in the caption.,edit_request,1.0,0.976
+Patients keep telling me they saw us on Instagram. Love it.,praise_or_approval,0.997,0.0
+"On open house promo, use our brand color orange, not the one you used.",edit_request,1.0,0.516
+"Please blur the face of the client in the why floss matters video, she didn't sign the release.",edit_request,1.0,0.011
+Can you remove the bit where I stumble on my words in couples tips?,edit_request,1.0,0.294
+The videos turned out great. Can we do this every month? What would that cost?,wants_more_work,1.0,0.0
+Latte art: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Hail claim help still has the same problem. I already told you about this.,complaint_not_fixed,1.0,1.0
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+Big news: Bayou Fitness is now Bayou Athletics! New email is dana@bayouathletics.com.,contact_update,1.0,0.0
+Do we need to bring anything for the shoot?,scheduling,1.0,0.0
+Wills in 60 seconds still has the same problem. I already told you about this.,complaint_not_fixed,1.0,1.0
+The market update video: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Add our phone number at the end of price menu.,contact_update,1.0,0.0
+Can you cut the first 3 seconds of do i need a lawyer?? It starts slow.,edit_request,1.0,0.001
+Still not fixed on shingle vs metal. A little frustrated honestly.,complaint_not_fixed,1.0,0.899
+Meet the team: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Hi! We help businesses rank #1 on Google. Reply YES for a free audit.,referral,0.999,0.0
+Still not fixed on latte art. A little frustrated honestly.,complaint_not_fixed,1.0,1.0
+Crew day still has the same problem. I already told you about this.,complaint_not_fixed,1.0,1.0
+Is parking in the back ok?,scheduling,1.0,0.0
+Please take out the part in staging tips where I talk about prices. Prices are changing.,billing_payment,1.0,0.0
+Cash is tight this month. Can I pay the August sessions together at the start of September?,billing_payment,1.0,0.0
+Did anyone see my message about market update? It's not fixed.,complaint_not_fixed,1.0,1.0
+"Please blur the face of the client in the one we shot last week, she didn't sign the release.",edit_request,1.0,0.017
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+Can you cut the first 3 seconds of the client story video? It starts slow.,edit_request,1.0,0.0
+Can why bundle home and auto have a calmer song? This one feels too hype for us.,edit_request,1.0,0.119
+On rate review our name is spelled wrong in the caption.,edit_request,1.0,0.058
+Can you remove the bit where I stumble on my words in material choices?,edit_request,1.0,0.107
+On roast day our name is spelled wrong in the caption.,edit_request,1.0,0.955
+"On kitchen remodel reveal, use our brand color forest green, not the one you used.",edit_request,1.0,0.996
+"Please blur the face of the client in slip and fall rights, she didn't sign the release.",edit_request,1.0,0.022
+"Please blur the face of the client in first time buyer tips, she didn't sign the release.",edit_request,1.0,0.002
+Did anyone see my message about client story? It's not fixed.,complaint_not_fixed,1.0,1.0
+"For the 30-day challenge video use the other shot, the one outside, not inside.",edit_request,1.0,0.001
+Do you guys also cut short clips from our episodes? We'd pay for that. Let me know.,wants_more_work,1.0,0.0
+Shingle vs metal: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Add our phone number at the end of bean origin story.,edit_request,1.0,0.0
+Still not fixed on material choices. A little frustrated honestly.,complaint_not_fixed,1.0,0.981
+Hey I saw your reels for a roofing company. How much for a reels pack for my detail shop?,wants_more_work,1.0,0.0
+Can you remove the bit where I stumble on my words in membership promo?,edit_request,1.0,0.608
+"Hey, crypto opportunity for content creators, 10x guaranteed.",spam_or_scam,0.893,0.0
+"Please blur the face of the client in office tour, she didn't sign the release.",edit_request,1.0,0.008
+30-day challenge looks great. Approved! Post it.,praise_or_approval,1.0,0.0
+Please take out the part in hydrafacial reveal where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+Can you cut the first 3 seconds of estate planning basics? It starts slow.,edit_request,1.0,0.05
+"The music on open house recap is too loud, I can't hear myself.",edit_request,1.0,0.994
+Desk posture fix: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+Actually we changed our mind on 30-day challenge. Can we get a different song and a new intro? Sorry!,edit_request,1.0,0.0
+Membership promo still has the same problem. I already told you about this.,complaint_not_fixed,1.0,1.0
+On the couples tips video our name is spelled wrong in the caption.,edit_request,1.0,0.072
+First time buyer tips still has the same problem. I already told you about this.,complaint_not_fixed,1.0,1.0
+Can you remove the bit where I stumble on my words in the headlight restore video?,edit_request,1.0,0.06
+"Quick update, our new office number is 469-555-0155. Please use this one from now on.",contact_update,1.0,0.0
+"David here. In the videos please say Castillo Insurance Group, the full name, not just Castillo Insurance. Compliance cares about this.",edit_request,1.0,0.0
+Running 10 min late!,scheduling,1.0,0.006
+On botox before and after our name is spelled wrong in the caption.,edit_request,1.0,1.0
+Sent half. Rest when the next batch is done.,wants_to_leave,1.0,0.0
+"We sell 10,000 real followers for $49.",spam_or_scam,1.0,0.0
+"On the paint correction video, use our brand color forest green, not the one you used.",edit_request,1.0,0.981
+"On bean origin story, use our brand color orange, not the one you used.",edit_request,1.0,0.988
+"Please make the captions bigger on the interior deep clean video, they're hard to read on my phone.",edit_request,1.0,0.257
+Can we move to 2pm instead?,scheduling,1.0,0.0
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+Do you have a package where you cut short clips from my episodes? How much would that be?,wants_more_work,1.0,0.0
+Can the what to expect visit one video have a calmer song? This one feels too hype for us.,edit_request,1.0,0.005
+Can you cut the first 3 seconds of tesla detail? It starts slow.,edit_request,1.0,0.0
+"The videos say ""Castillo Insurance"" again. I asked for the full name. Not happy.",complaint_not_fixed,1.0,1.0
+"Got the videos, thanks. Accounting will handle the invoice.",billing_payment,1.0,0.0
+Fresh fade transformation: add the line 'walk-ins welcome' at the end please.,edit_request,1.0,0.0
+On the one we shot last week our name is spelled wrong in the caption.,edit_request,1.0,0.385
+Can you remove the bit where I stumble on my words in the meet the doctor video?,edit_request,1.0,0.029
+Still not fixed on desk posture fix. A little frustrated honestly.,complaint_not_fixed,1.0,0.993
+Did anyone see my message about couples tips? It's not fixed.,complaint_not_fixed,1.0,1.0
+On office tour our name is spelled wrong in the caption.,edit_request,1.0,0.999
+Did anyone see my message about bean origin story? It's not fixed.,complaint_not_fixed,1.0,0.998
+Can you remove the bit where I stumble on my words in the life insurance basics video?,edit_request,1.0,0.508
+This is the second time I ask. interior deep clean is still wrong.,complaint_not_fixed,1.0,1.0
+"Thanks team, great session.",praise_or_approval,1.0,0.0
+Please take out the part in open house promo where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+"For why floss matters use the other shot, the one outside, not inside.",edit_request,1.0,0.0
+Please take out the part in the why bundle home and auto video where I talk about prices. Prices are changing.,edit_request,1.0,0.0
+"My cousin Femi runs Carter Tire & Auto in Garland, he needs videos. His number is 469-555-0143. Call him!",referral,1.0,0.0
+Still not fixed on office tour. A little frustrated honestly.,complaint_not_fixed,1.0,0.996
+This is the second time I ask. what to expect visit one is still wrong.,complaint_not_fixed,1.0,1.0
+We'll pay once the videos are posted. Can you send them?,billing_payment,1.0,0.0
+"We have to cancel today's shoot, family emergency. Can we move it? We already paid.",scheduling,1.0,0.004
+"The music on the member story video is too loud, I can't hear myself.",edit_request,1.0,0.998
+"The music on tax season tips is too loud, I can't hear myself.",edit_request,1.0,0.995
+Please take out the part in college savings where I talk about prices. Prices are changing.,edit_request,1.0,0.001
+Can the 30-day challenge video have a calmer song? This one feels too hype for us.,edit_request,1.0,0.002
+"Please blur the face of the client in skin care routine, she didn't sign the release.",edit_request,1.0,0.492
+This is the second time I ask. meet the doctor is still wrong.,complaint_not_fixed,1.0,1.0
+Can you remove the bit where I stumble on my words in why fees matter?,edit_request,1.0,0.912
+"The music on free estimate promo is too loud, I can't hear myself.",edit_request,1.0,0.999
+This is the second time I ask. why bundle home and auto is still wrong.,complaint_not_fixed,1.0,1.0
+We would like to talk about our contract and whether we continue.,wants_to_leave,1.0,1.0
+Running 10 min late!,scheduling,1.0,0.006
+Can you remove the bit where I stumble on my words in the one we shot last week?,edit_request,1.0,0.09
+Add our phone number at the end of listing tour: oak st.,edit_request,1.0,0.0
+Following up. We need to talk about the contract this week.,wants_to_leave,1.0,0.033
+This is the second time I ask. free estimate promo is still wrong.,complaint_not_fixed,1.0,1.0
