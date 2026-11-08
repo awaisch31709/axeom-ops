@@ -56,7 +56,7 @@ def build_actions(r, today, labels=None):
         lead_by_email = r["leads"][r["leads"]["email_n"] == last["email"]]["name"]
         person = (people[-1] if people else "") or (lead_by_email.iloc[0] if len(lead_by_email) else contact_for(r, cid))
         add(f"churn:{cid}", 100 + len(g), "Client may leave", cid,
-            f"{names[cid]} wants to talk about leaving. No reply in {days} days.",
+            f"{names[cid]} may leave. No reply in {days} day{'s' if days != 1 else ''}.",
             " / ".join(f"{x.ts:%b %d}: \"{x.text[:90]}\"" for x in g.sort_values('ts').itertuples()),
             "Call them today?",
             f"Hi {first_name(person)}, this is Zaid. I saw your message about the contract and I'm sorry we were slow. "

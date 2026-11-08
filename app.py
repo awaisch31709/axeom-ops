@@ -64,6 +64,14 @@ def compute(h, _data, key):
         with ThreadPoolExecutor(6) as ex:
             res = list(ex.map(lambda t: jev_label(t, key), msgs["text"]))
         labels = {m: x.get("jev_category") for m, x in zip(msgs["msg_id"], res) if x.get("jev_category")}
+    else:
+        # no Jev key: use the labels the open Jev-style model (run in Colab) gave each message, matched by text
+        lab = PACK / "model_labels.csv"
+        if lab.exists():
+            ml = pd.read_csv(lab, dtype=str, keep_default_na=False)
+            by_text = dict(zip(ml["text"].str.strip(), ml["model_label"]))
+            msgs = r["messages"][r["messages"]["direction"] == "from"]
+            labels = {m: by_text[t.strip()] for m, t in zip(msgs["msg_id"], msgs["text"]) if t.strip() in by_text}
     r["jev_labels"] = labels
     # "today" = the data's own today, or later if new files carry newer dates
     dates = [pl.TODAY]
@@ -224,7 +232,7 @@ with tab_clients:
                 elif len(hit):
                     tag = " · complaint"
                 jl = r["jev_labels"].get(x.msg_id)
-                jl = f" · Jev: {jl.replace('_', ' ')}" if jl else ""
+                jl = f" · AI label: {jl.replace('_', ' ')}" if jl else ""
                 st.markdown(f"<span class='muted'>{x.ts:%b %d} · {x.channel}{jl}</span>{tag}<br>{x.text}", unsafe_allow_html=True)
 
 # ------------------------------------------------------------------ money
@@ -268,6 +276,7 @@ with tab_upload:
         st.session_state.upload_log = []
         st.session_state.decisions = {}
         st.rerun()
-    st.caption(("Jev is sorting messages. " if r["jev_labels"] else "Jev is off (no API key), keyword rules only. ") +
+    st.caption((f"{len(r['jev_labels'])} messages sorted by the AI model; others by keyword rules. " if r["jev_labels"]
+                else "Messages sorted by keyword rules. ") +
                f"Data as of {today:%b %d, %Y}. {len(names)} clients, {len(r['bookings'])} bookings, {len(r['invoices'])} invoices, "
                f"{len(r['payments'])} payments, {len(r['board'])} videos, {len(r['messages'])} messages.")
